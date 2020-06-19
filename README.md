@@ -1,2 +1,2 @@
-# hello_world
-just a repository
+# face detection using mtcnn and opencv
+
